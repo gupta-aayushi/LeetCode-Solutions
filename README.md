@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
+## Array
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1137-height-checker) |
+## Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1137-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
