@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [1610-xor-operation-in-an-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 ## Bit Manipulation
