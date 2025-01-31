@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1610-xor-operation-in-an-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sorting
 |  |
