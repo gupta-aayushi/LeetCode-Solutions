@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sorting
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0072-edit-distance) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
