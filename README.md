@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0747-min-cost-climbing-stairs](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0932-monotonic-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1137-height-checker) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0747-min-cost-climbing-stairs](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## Monotonic Stack
 |  |
 | ------- |
