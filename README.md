@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2645-pass-the-pillow](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2857-total-distance-traveled](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
+| [3371-harshad-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3371-harshad-number) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
 |  |
