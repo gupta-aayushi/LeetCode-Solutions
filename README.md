@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0944-smallest-range-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1610-xor-operation-in-an-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0747-min-cost-climbing-stairs](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0932-monotonic-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0932-monotonic-array) |
+| [0944-smallest-range-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
