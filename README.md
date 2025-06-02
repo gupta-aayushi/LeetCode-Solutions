@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1179-game-play-analysis-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1179-game-play-analysis-i) |
 | [3782-find-valid-emails](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3782-find-valid-emails) |
 ## Tree
 |  |
