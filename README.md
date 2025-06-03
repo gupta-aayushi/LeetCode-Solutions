@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-min-cost-climbing-stairs](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0890-lemonade-change](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
