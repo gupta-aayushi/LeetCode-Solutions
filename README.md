@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0607-sales-person) |
 | [1179-game-play-analysis-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1179-game-play-analysis-i) |
+| [1415-students-and-examinations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
 | [3782-find-valid-emails](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3782-find-valid-emails) |
 ## Tree
 |  |
