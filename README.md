@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-min-cost-climbing-stairs](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0944-smallest-range-i) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0046-permutations) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
