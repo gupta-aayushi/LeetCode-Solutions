@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Queue
 |  |
 | ------- |
