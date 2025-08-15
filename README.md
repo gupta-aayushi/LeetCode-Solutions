@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-smallest-range-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0944-smallest-range-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Array
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
