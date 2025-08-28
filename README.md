@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3371-harshad-number) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3625-stone-removal-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3625-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2857-total-distance-traveled](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3625-stone-removal-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3625-stone-removal-game) |
 ## Trie
 |  |
 | ------- |
