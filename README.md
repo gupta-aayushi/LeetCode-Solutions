@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3511-find-the-winning-player-in-coin-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3625-stone-removal-game) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
 | ------- |
