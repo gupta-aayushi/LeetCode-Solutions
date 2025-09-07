@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1362-airplane-seat-assignment-probability](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [1362-airplane-seat-assignment-probability](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -230,5 +232,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
