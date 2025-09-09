@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
