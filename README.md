@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0909-stone-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [0909-stone-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
 ## Monotonic Stack
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Brainteaser
 |  |
