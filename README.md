@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3371-harshad-number) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2857-total-distance-traveled](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3625-stone-removal-game) |
