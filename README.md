@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
+| [2507-number-of-common-factors](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2645-pass-the-pillow](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
 ## Geometry
 |  |
 | ------- |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
