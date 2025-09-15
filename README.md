@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2645-pass-the-pillow](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2857-total-distance-traveled](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
