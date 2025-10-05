@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1319-unique-number-of-occurrences](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3797-design-spreadsheet](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0944-smallest-range-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0944-smallest-range-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1137-height-checker) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2507-number-of-common-factors) |
 ## Geometry
