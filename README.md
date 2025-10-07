@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3778-transform-array-by-parity](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3778-transform-array-by-parity](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3797-design-spreadsheet](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3778-transform-array-by-parity](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
