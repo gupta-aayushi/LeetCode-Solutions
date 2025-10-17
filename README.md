@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0415-add-strings) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [2481-strictly-palindromic-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Backtracking
