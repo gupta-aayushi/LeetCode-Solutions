@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1319-unique-number-of-occurrences](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3797-design-spreadsheet](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-count-tested-devices-after-test-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
