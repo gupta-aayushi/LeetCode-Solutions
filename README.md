@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2645-pass-the-pillow](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2857-total-distance-traveled](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -306,5 +308,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3797-design-spreadsheet](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
