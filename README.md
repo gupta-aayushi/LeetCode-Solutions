@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0909-stone-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Monotonic Stack
 |  |
 | ------- |
