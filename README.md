@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3625-stone-removal-game) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3817-maximum-containers-on-a-ship](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
