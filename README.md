@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3870-count-commas-in-range](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
