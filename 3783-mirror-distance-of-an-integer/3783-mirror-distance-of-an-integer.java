@@ -6,9 +6,11 @@ class Solution {
         return Math.abs(n-reverse(n));
     }
     public int reverse(int n){
-        StringBuilder sb = new StringBuilder();
-        sb.append(n);
-        sb = sb.reverse();
-        return Integer.parseInt(sb.toString());
+        int k = 0;
+        while(n!=0){
+            k = (k*10)+n%10;
+            n = n/10;
+        }
+        return k;
     }
 }
