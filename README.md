@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1319-unique-number-of-occurrences](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3797-design-spreadsheet](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3778-transform-array-by-parity](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2645-pass-the-pillow](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2857-total-distance-traveled](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
