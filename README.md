@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1179-game-play-analysis-i) |
 | [1415-students-and-examinations](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3782-find-valid-emails](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3782-find-valid-emails) |
 ## Tree
 |  |
