@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3797-design-spreadsheet](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3894-traffic-signal-color](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Queue
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
+| [3894-traffic-signal-color](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3625-stone-removal-game](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3625-stone-removal-game) |
 | [3701-compute-alternating-sum](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/gupta-aayushi/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Trie
 |  |
 | ------- |
